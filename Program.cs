@@ -5,6 +5,7 @@
     "Ryan Chang",
     "Ethan Burnet",
     'Jonathan'
+    'Jonathan'
     // Add your name above this line! (Do not delete this)
 ];
 
